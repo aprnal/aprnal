@@ -7,6 +7,7 @@
 
 
 ### 🌰 Studing 🌰
+`JAVA`, `Spring`, `Spring Boot`
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprnal&show_icons=true&theme=radical)
