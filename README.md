@@ -1,18 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=500&size=30&pause=1000&color=B64CFFD8&center=true&lines=Welcome+to+aprnal's+GitHub)](https://git.io/typing-svg)
 
-## 🌸 Welcome to My GitHub! 🐰✨
-
-안녕하세요! 환영합니다! 🎀
-
----
-
-### 🐥 About Me
-💖 안녕하세요! 백엔드 공부 중인 대학생입니다. 
-
-💡 새로운 기술을 배우고, 재미있는 프로젝트를 만드는 것을 좋아해요! 
-
-💡 꾸준하고 성실한 동료가 되고 싶고 소통하며 성장하는 것에 대해 중요하게 생각합니다!
+## 🌸 Welcome! 🐰✨
 
 ---
 
